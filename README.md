@@ -10,7 +10,7 @@
 [![support](https://img.shields.io/badge/support-Ko--fi-yellow.svg)](https://ko-fi.com/alshedivat)
 
 A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
-If you like the theme, give it a star!
+If you like the theme, give it a star :)
 
 [![Preview](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
 
@@ -68,7 +68,6 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://systemconsultantgroup.github.io/scg-folio/" target="_blank">★</a>
 <a href="https://decisionlab.ucsf.edu/" target="_blank">★</a>
 <a href="https://programming-group.com/" target="_blank">★</a>
-<a href="https://sailing-lab.github.io/" target="_blank">★</a>
 </td>
 </tr>
 <tr>
@@ -90,11 +89,6 @@ Neural Compression (ICLR: <a href="https://neuralcompression.github.io/" target=
 </td>
 </tr>
 </table>
-
-
-## Best practices
-
-[![Google PageSpeeg](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/pagespeed.svg)](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Falshedivat.github.io%2Fal-folio%2F&tab=desktop)
 
 
 ## Getting started
@@ -239,9 +233,9 @@ If you have a different question, please ask using [Discussions](https://github.
     But after deploying, it is not displayed correctly (CSS and JS is not loaded properly).
     How do I fix that? <br>
    **A:** Make sure to correctly specify the `url` and `baseurl` paths in `_config.yml`.
-   Set `url` to `https://<your-github-username>.github.io` or to `https://<your.custom.domain>` if you are using a custom domain.
-   If you are deploying a personal or organization website, leave `baseurl` blank.
-   If you are deploying a project page, set `baseurl: /<your-project-name>/`.
+   If you are deploying a personal or organization website to GitHub Pages, leave both fields blank.
+   If you are deploying a project page to GitHub Pages, leave `url` blank and set `baseurl: /<your-project-name>/`.
+   Generally, if you are deploying your webpage to `your-domain.com/your-project/`, you must set `url: your-domain.com` and `baseurl: /your-project/`.
 
 4. **Q:** Atom feed doesn't work. Why?
    <br>

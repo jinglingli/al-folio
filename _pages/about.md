@@ -2,23 +2,27 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: (Li 李 [family name] Jingling 京玲 [given name])
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: prof_pic.jpeg
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student in Computer Science at the [University of Maryland, College Park](http://www.umd.edu), where I am fortunate to be advised by [Prof. John Dickerson](http://jpdickerson.com). 
+Before that, I obtained my Bachelor's degree in Computer Science and Mathematics from [Bryn Mawr College](http://www.brynmawr.edu).
+My research focuses on understanding and enriching the reasoning capabilities of current deep learning models. I believe having the ability to reason is an important and necessary step to achieving general intelligence.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently interning at [DeepMind](http://deepmind.com) under the supervision of [Dr. Petar Veličković](https://petar-v.com). We are investigating on how to re-use the learned knowledge and skills in reinforcement learning. 
+During my Ph.D., I have also worked with [Prof. Jimmy Ba](http://jimmylba.github.io) and [Prof. Taiji Suziki](http://ibis.t.u-tokyo.ac.jp/suzuki) while I was doing research internships at [Vector Institute](http://vectorinstitute.ai) and [RIKEN AIP](http://aip.riken.jp). I have also received guidance from [Prof. Don Perlis](http://www.cs.umd.edu/users/perlis), [Prof. Furong Huang](http://furong-huang.com), and [Prof. Don Perlis](http://www.umiacs.umd.edu/people/jbrody).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p><strong>I am looking for internship opportunities for summer 2022. Here is my <a href="assets/pdf/latest.pdf">CV</a>. Let me know if you think I can be a good fit.</strong></p>
+
+
+
+
+
